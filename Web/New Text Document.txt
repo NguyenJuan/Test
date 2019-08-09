@@ -1,0 +1,39 @@
+Note:
+<a  href="link">...</a>  : ch? d?n t?i page
+<img src="img_girl.jpg" width="500" height="600">  : t?p và ngu?n ?nh,thu?c tính
+<img src="img_girl.jpg" alt="Girl with a jacket">(alt) chú thích thu?c tính ?nh
+<p style="color:red">....</p>: Các style du?c s? d?ng
+<html lang="en-US">: khai báo ngôn ng?
+<p title='John "ShotGun" Nelson'> khai báo title
+<hr> :d?t gi?a heading và nd nhu 1 ph?n ngan cách
+<head>   :thu?ng xác d?nh tiêu d? tài li?u, b? ký t?, ki?u, liên k?t, t?p l?nh và thông tin meta khác.
+<pre>     : xác d?nh van b?n du?c d?nh d?ng s?n.
+style:  
+	S? d?ng background-color cho màu n?n
+	S? d?ng color cho màu van b?n        <h1 style="color:blue;"> : màu
+	S? d?ng font-family cho phông ch?       <h1 style="font-family:verdana;">: kieu chu
+	S? d?ng font-size cho kích thu?c van b?n  <h1 style="font-size:300%;"> : kich thuoc ch?
+	S? d?ng text-align d? can ch?nh van b?n  <h1 style="text-align:center;"> : can l?
+<b> - Ch? in d?m
+<strong> - Van b?n quan tr?ng
+<i> - Ch? in nghiêng
+<em> - Ðoa?n van ba?n duo?c nhân ma?nh
+<mark> - Ðánh d?u van b?n
+<small> - Van b?n nh?
+<del> - Xóa van b?n
+<ins> - Chèn van b?n
+<sub> - Van b?n dang ký
+<sup> - Van b?n siêu m?u
+
+<b>	Defines bold text
+<em>	Defines emphasized text 
+<i>	Defines italic text
+<small>	Defines smaller text
+<strong>	Defines important text
+<sub>	Defines subscripted text
+<sup>	Defines superscripted text
+<ins>	Defines inserted text
+<del>	Defines deleted text
+<mark>	Defines marked/highlighted text
+	
+	
